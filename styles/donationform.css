@@ -1,0 +1,881 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 153.6rem;
+}
+
+.donationform-iEb {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.donationform-iEb .auto-group-suqm-aXh {
+  box-sizing: border-box;
+  padding: 3.1rem 10.6rem 2.3rem 3.5rem;
+  width: 100%;
+  height: 15.9rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8899999857);
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-suqm-aXh .auto-group-jphq-HBD {
+  margin-right: 57.1rem;
+  width: 37.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-suqm-aXh .auto-group-jphq-HBD .auto-group-fm8s-RoD {
+  margin: 0rem 16.05rem 1.1rem 0rem;
+  width: calc(100% - 16.05rem);
+  display: flex;
+  align-items: center;
+}
+
+.donationform-iEb .auto-group-suqm-aXh .auto-group-jphq-HBD .auto-group-fm8s-RoD .scrap3-removebg-preview-75-Z8j {
+  margin-right: 0.2033rem;
+  width: 5.1467rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-suqm-aXh .auto-group-jphq-HBD .auto-group-fm8s-RoD .scrap-symphony-sanctuary-5sm {
+  margin-top: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.028rem;
+  color: #f7fbff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-suqm-aXh .auto-group-jphq-HBD .eco-friendly-donations-PdZ {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.donationform-iEb .auto-group-suqm-aXh .home-donations-about-us-contact-us-hPM {
+  margin-bottom: 0.8rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-suqm-aXh .home-donations-about-us-contact-us-hPM .home-donations-about-us-contact-us-hPM-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+
+a {
+  text-decoration: none;
+}
+
+.donationform-iEb .auto-group-suqm-aXh .home-donations-about-us-contact-us-hPM .home-donations-about-us-contact-us-hPM-sub-1 {}
+
+.donationform-iEb .auto-group-jpo9-yVH {
+  margin-bottom: 1.3rem;
+  box-sizing: border-box;
+  padding: 2.45rem 4.95rem 1.85rem 4.95rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-940-B6F.png');
+  flex-shrink: 0;
+}
+
+.donationform-iEb .donation-form-q1h {
+  margin: 0rem 0rem 3.1rem 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .image-28-j75 {
+  width: 153.6rem;
+  height: 42.3rem;
+  position: relative;
+  background-size: 100% 172.939%;
+  background-position: 0 -19.1576rem;
+  background-image: url('../assets/image-28.png');
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd {
+  box-sizing: border-box;
+  padding: 3.25rem 38.25rem 3.9rem 44.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 79.85rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym {
+  box-sizing: border-box;
+  padding: 4.4rem 11rem 5.1rem 11.1rem;
+  width: 68.1rem;
+  height: 72.6rem;
+  position: absolute;
+  left: 0;
+  top: 2.05rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 {
+  margin-bottom: 1.35rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .first-name-8oR {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .first-name-8oR .first-name-6VM {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .first-name-8oR .first-name-6VM .first-name-6VM-sub-0 {}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .first-name-8oR .first-name-6VM .first-name-6VM-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .first-name-8oR .rectangle-sPd {
+  width: 100%;
+  height: 5.5rem;
+  background-color: #f1f1f1;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .last-name-bKd {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .last-name-bKd .last-name-Ykf {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .last-name-bKd .rectangle-GRm {
+  width: 100%;
+  height: 5.5rem;
+  background-color: #f1f1f1;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .email-1u9 {
+  margin-bottom: 0.85rem;
+  width: 100%;
+  height: 8.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .email-1u9 .e-mail-An3 {
+  width: 5.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .email-1u9 .e-mail-An3 .e-mail-An3-sub-0 {}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .email-1u9 .e-mail-An3 .e-mail-An3-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .email-1u9 .rectangle-YXh {
+  width: 46rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 0;
+  top: 2.7rem;
+  background-color: rgba(217, 217, 217, 0.3700000048);
+  border-radius: 0.6rem;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .email-1u9 .email-3DZ {
+  width: 46rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .email-1u9 .email-3DZ .e-mail-bF5 {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .email-1u9 .email-3DZ .e-mail-bF5 .e-mail-bF5-sub-0 {}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .email-1u9 .email-3DZ .e-mail-bF5 .e-mail-bF5-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .email-1u9 .email-3DZ .rectangle-oM9 {
+  width: 100%;
+  height: 5.5rem;
+  background-color: rgba(217, 217, 217, 0.1800000072);
+  border-radius: 0.6rem;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .phone-number-XH9 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .phone-number-XH9 .phone-number-5pT {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .phone-number-XH9 .phone-number-5pT .phone-number-5pT-sub-0 {}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .phone-number-XH9 .phone-number-5pT .phone-number-5pT-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .group-61-C95 .phone-number-XH9 .rectangle-FMZ {
+  width: 100%;
+  height: 5.5rem;
+  background-color: #f1f1f1;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .email-CXh {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .email-CXh .e-mail-ZNF {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .email-CXh .e-mail-ZNF .e-mail-ZNF-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .email-CXh .e-mail-ZNF .e-mail-ZNF-sub-1 {
+  color: #ff0000;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .email-CXh .rectangle-CAK {
+  width: 46rem;
+  height: 5.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .message-vMD {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .message-vMD .message-V9R {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .message-vMD .message-V9R .message-V9R-sub-0 {}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .message-vMD .message-V9R .message-V9R-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .contact-form-2-Uym .message-vMD .rectangle-69D {
+  width: 100%;
+  height: 15rem;
+  background-color: #f1f1f1;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .email-EmD {
+  width: 46rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 71.65rem;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .email-EmD .e-mail-xhD {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .email-EmD .e-mail-xhD .e-mail-xhD-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .email-EmD .e-mail-xhD .e-mail-xhD-sub-1 {
+  color: #ff0000;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .email-EmD .rectangle-PGj {
+  width: 100%;
+  height: 5.5rem;
+  background-color: rgba(217, 217, 217, 0.3700000048);
+  border-radius: 0.6rem;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-vyaf-9Ao .fill-this-form-our-team-will-collect-your-donation-items-from-your-place-Xtj {
+  width: 69.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 1.45rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .email-NeT {
+  margin: 0rem 13.95rem 1.1rem 11.2rem;
+  width: calc(100% - 25.15rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .email-NeT .e-mail-iCX {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .email-NeT .e-mail-iCX .e-mail-iCX-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.donationform-iEb .auto-group-jk19-EZd .email-NeT .e-mail-iCX .e-mail-iCX-sub-1 {
+  color: #ff0000;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .email-NeT .rectangle-uXu {
+  width: 100%;
+  height: 5.5rem;
+  background-color: rgba(217, 217, 217, 0.3700000048);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .email-dsD {
+  margin: 0rem 13.95rem 4.1rem 11.2rem;
+  width: calc(100% - 25.15rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .email-dsD .e-mail-yRH {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .email-dsD .e-mail-yRH .e-mail-yRH-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.donationform-iEb .auto-group-jk19-EZd .email-dsD .e-mail-yRH .e-mail-yRH-sub-1 {
+  color: #ff0000;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .email-dsD .rectangle-BnF {
+  width: 100%;
+  height: 5.5rem;
+  background-color: rgba(217, 217, 217, 0.3700000048);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-82xq-tAs {
+  margin: 0rem 13.95rem 0rem 11.2rem;
+  width: calc(100% - 25.15rem);
+  height: 4.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-82xq-tAs .button-Bfm {
+  margin-right: 21.2rem;
+  width: 12.4rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #000000;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .auto-group-jk19-EZd .auto-group-82xq-tAs .button-3T5 {
+  width: 12.4rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #000000;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .footer-ip7 {
+  width: 100%;
+  height: 26.6092rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .footer-ip7 .rectangle-3-EnT {
+  width: 153.6rem;
+  height: 24.9998rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #222222;
+}
+
+.donationform-iEb .footer-ip7 .scrap-symphony-sanctuary-your-premier-destination-for-trading-scrap-materials-and-a-platform-to-donate-and-manage-waste-responsibly-embrace-a-circular-economy-contribute-to-charitable-causes-by-donating-reusable-items-and-explore-green-solutions-with-our-community-of-startups-and-entrepreneurs-for-a-sustainable-future-nZ5 {
+  width: 43.7rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 4.8992rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.donationform-iEb .footer-ip7 .frame-35-voh {
+  width: 5.2rem;
+  height: 16.5rem;
+  position: absolute;
+  left: 117.8rem;
+  top: 1.9931rem;
+}
+
+.donationform-iEb .footer-ip7 .frame-35-voh .pages-fFV {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 2.25;
+  letter-spacing: 0.012rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.donationform-iEb .footer-ip7 .frame-35-voh .frame-39-PBV {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.donationform-iEb .footer-ip7 .frame-35-voh .frame-39-PBV .home-L6j {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .footer-ip7 .frame-35-voh .frame-39-PBV .donations-Th9 {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .footer-ip7 .frame-35-voh .frame-39-PBV .about-us-CPq {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .footer-ip7 .frame-35-voh .frame-39-PBV .contact-us-94B {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .footer-ip7 .social-media-SJB {
+  width: 17.3616rem;
+  height: 3rem;
+  position: absolute;
+  left: 13.018rem;
+  top: 15.1113rem;
+  display: flex;
+  align-items: center;
+}
+
+.donationform-iEb .footer-ip7 .social-media-SJB .vector-NSj {
+  margin: 0rem 4.034rem 0rem 0rem;
+  width: 2.9268rem;
+  height: 2.9268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .footer-ip7 .social-media-SJB .vector-HJo {
+  margin-right: 4.0345rem;
+  width: 3.2195rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .footer-ip7 .social-media-SJB .vector-qLK {
+  margin-top: 0rem;
+  width: 3.1463rem;
+  height: 2.6341rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .footer-ip7 .rectangle-12-ZXD {
+  width: 153.6rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0;
+  top: 20.7rem;
+  background-color: #555555;
+}
+
+.donationform-iEb .footer-ip7 .frame-40-WST {
+  box-sizing: border-box;
+  padding-right: 19.3667rem;
+  width: 29.8667rem;
+  height: 5.3092rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 21.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.donationform-iEb .footer-ip7 .frame-40-WST .mask-group-dX5 {
+  margin-right: 4.5rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .footer-ip7 .frame-40-WST .mask-group-B2o {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.donationform-iEb .footer-ip7 .scrap-symphony-sanctuary-all-rights-reserved-Kuh {
+  width: 27.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 114.7rem;
+  top: 21.4rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.donationform-iEb .footer-ip7 .terms-condition-privacy-policy-zF9 {
+  width: 18.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 21.4rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}

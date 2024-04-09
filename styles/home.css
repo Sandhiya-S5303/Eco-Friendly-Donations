@@ -1,0 +1,544 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 153.6rem;
+}
+
+.home-NpF {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.home-NpF .auto-group-yizb-bwu {
+  margin-bottom: 7rem;
+  box-sizing: border-box;
+  padding: 3.1rem 10.6rem 2.3rem 3.5rem;
+  width: 100%;
+  height: 15.9rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8899999857);
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-yizb-bwu .auto-group-urpd-JNT {
+  margin-right: 57.1rem;
+  width: 37.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-yizb-bwu .auto-group-urpd-JNT .auto-group-cwct-p5u {
+  margin: 0rem 16.05rem 1.1rem 0rem;
+  width: calc(100% - 16.05rem);
+  display: flex;
+  align-items: center;
+}
+
+.home-NpF .auto-group-yizb-bwu .auto-group-urpd-JNT .auto-group-cwct-p5u .scrap3-removebg-preview-75-WjR {
+  margin-right: 0.2033rem;
+  width: 5.1467rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-yizb-bwu .auto-group-urpd-JNT .auto-group-cwct-p5u .scrap-symphony-sanctuary-Dtj {
+  margin-top: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.028rem;
+  color: #f7fbff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-yizb-bwu .auto-group-urpd-JNT .eco-friendly-donations-dxT {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.home-NpF .auto-group-yizb-bwu .home-donations-about-us-contact-us-M7m {
+  margin-bottom: 0.8rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-yizb-bwu .home-donations-about-us-contact-us-M7m .home-donations-about-us-contact-us-M7m-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.home-NpF .auto-group-yizb-bwu .home-donations-about-us-contact-us-M7m .home-donations-about-us-contact-us-M7m-sub-1 {}
+
+.home-NpF .auto-group-6jrk-WoH {
+  margin: 0rem 15.1rem 5.7rem 13.4rem;
+  width: calc(100% - 28.5rem);
+  height: 46.4rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-6jrk-WoH .auto-group-pzuf-onP {
+  margin-right: 6.2rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-6jrk-WoH .auto-group-pzuf-onP .welcome-to-eco-friendly-donations-think-us-before-you-throw--Yzs {
+  margin-bottom: 4.1rem;
+  max-width: 71.7rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.096rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-6jrk-WoH .auto-group-pzuf-onP .the-project-titled-web-based-application-for-waste-management-and-donation-aims-to-create-a-platform-that-facilitates-the-collection-and-distribution-of-surplus-items-such-as-food-clothing-books-money-toys-etc-to-those-in-need-through-collaboration-with-ngos-this-innovative-web-application-for-waste-management-is-designed-to-streamline-the-process-of-gathering-excess-items-from-various-sources-such-as-hotels-restaurants-event-venues-shopping-malls-and-general-stores-and-redistributing-them-to-individuals-facing-hardships-8TH {
+  margin-bottom: 2.2rem;
+  margin-top: -20px;
+  max-width: 70.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-6jrk-WoH .auto-group-pzuf-onP .item--Y9d {
+  width: 15.7rem;
+  height: 4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #000000;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+
+.item--Y9d a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.home-NpF .auto-group-6jrk-WoH .image-15-xz3 {
+  width: 47.2rem;
+  height: 45.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+
+.home-NpF .group-212-VDH {
+  margin-bottom: 3.4rem;
+  box-sizing: border-box;
+  padding: 5.3rem 11.8rem 3.65rem 14.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(119, 119, 119, 0.1800000072);
+  flex-shrink: 0;
+}
+
+.home-NpF .group-212-VDH .auto-group-vr2b-Qb9 {
+  margin: 0rem 1.1rem 3.6rem 0rem;
+  width: 126.3rem;
+  height: 12.75rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.home-NpF .group-212-VDH .auto-group-vr2b-Qb9 .the-primary-objective-is-to-minimize-waste-particularly-in-the-form-of-leftover-food-clothing-and-other-resources-by-connecting-donors-with-ngos-that-focus-on-supporting-disadvantaged-communities-6is {
+  width: 124.6rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-NpF .group-212-VDH .auto-group-vr2b-Qb9 .for-example-restaurants-and-catering-services-can-use-the-application-to-notify-ngos-about-available-surplus-food-allowing-these-organizations-to-request-and-coordinate-the-pick-up-and-distribution-of-these-items-to-those-who-require-assistance-7P5 {
+  width: 126.3rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 0;
+  top: 4.55rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  margin-top: 35px;
+}
+
+.home-NpF .group-212-VDH .by-leveraging-technology-this-web-based-application-seeks-to-bridge-the-gap-between-potential-donors-and-ngos-ensuring-a-more-efficient-and-timely-distribution-of-resources-to-those-in-need-this-not-only-reduces-unnecessary-waste-but-also-contributes-to-addressing-issues-related-to-starvation-malnutrition-and-lack-of-essential-resources-among-vulnerable-populations-hMH {
+  max-width: 127.4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-nqdy-s9H {
+  margin: 0rem 11.5rem 7.4rem 14.4rem;
+  width: calc(100% - 25.9rem);
+  height: 30rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-nqdy-s9H .donation6-1-wuq {
+  margin-right: 8rem;
+  width: 30rem;
+  height: 30rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-nqdy-s9H .auto-group-umdr-fL3 {
+  margin: 3rem 0rem 5.2rem 0rem;
+  height: calc(100% - 8.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-nqdy-s9H .auto-group-umdr-fL3 .this-web-based-application-for-waste-management-and-donation-serves-as-a-valuable-tool-for-promoting-collaboration-between-donors-and-ngos-ultimately-working-towards-a-more-sustainable-and-compassionate-approach-to-managing-surplus-resources-for-the-betterment-of-society-bUb {
+  margin-bottom: 6.5rem;
+  max-width: 89.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.home-NpF .auto-group-nqdy-s9H .auto-group-umdr-fL3 .item--1oD {
+  margin-right: 74.3rem;
+  box-sizing: border-box;
+  padding: 0rem 1.9rem 0rem 1.6rem;
+  height: 4.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #000000;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+
+.item--1oD a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.home-NpF .footer-BLK {
+  width: 100%;
+  height: 26.6092rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.home-NpF .footer-BLK .rectangle-3-X9H {
+  width: 153.6rem;
+  height: 24.9998rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #222222;
+}
+
+.home-NpF .footer-BLK .scrap-symphony-sanctuary-your-premier-destination-for-trading-scrap-materials-and-a-platform-to-donate-and-manage-waste-responsibly-embrace-a-circular-economy-contribute-to-charitable-causes-by-donating-reusable-items-and-explore-green-solutions-with-our-community-of-startups-and-entrepreneurs-for-a-sustainable-future-T2w {
+  width: 43.7rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 4.8992rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.home-NpF .footer-BLK .frame-35-DAX {
+  width: 5.2rem;
+  height: 16.5rem;
+  position: absolute;
+  left: 117.8rem;
+  top: 1.9931rem;
+}
+
+.home-NpF .footer-BLK .frame-35-DAX .pages-kAT {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 2.25;
+  letter-spacing: 0.012rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.home-NpF .footer-BLK .frame-35-DAX .frame-39-U6T {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.home-NpF .footer-BLK .frame-35-DAX .frame-39-U6T .home-bRy {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-NpF .footer-BLK .frame-35-DAX .frame-39-U6T .donations-8Ru {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-NpF .footer-BLK .frame-35-DAX .frame-39-U6T .about-us-fgj {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-NpF .footer-BLK .frame-35-DAX .frame-39-U6T .contact-us-yBd {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-NpF .footer-BLK .item--Uu5 {
+  width: 17.3617rem;
+  height: 3rem;
+  position: absolute;
+  left: 13.018rem;
+  top: 15.1113rem;
+  display: flex;
+  align-items: center;
+}
+
+.home-NpF .footer-BLK .item--Uu5 .vector-DLs {
+  margin: 0rem 4.034rem 0rem 0rem;
+  width: 2.9268rem;
+  height: 2.9268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-NpF .footer-BLK .item--Uu5 .vector-iHd {
+  margin-right: 4.0345rem;
+  width: 3.2195rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-NpF .footer-BLK .item--Uu5 .vector-fTm {
+  margin-top: 0rem;
+  width: 3.1463rem;
+  height: 2.6341rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-NpF .footer-BLK .rectangle-12-cP1 {
+  width: 153.6rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0;
+  top: 20.7rem;
+  background-color: #555555;
+}
+
+.home-NpF .footer-BLK .frame-40-KoD {
+  box-sizing: border-box;
+  padding-right: 19.3667rem;
+  width: 29.8667rem;
+  height: 5.3092rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 21.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.home-NpF .footer-BLK .frame-40-KoD .mask-group-RrF {
+  margin-right: 4.5rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-NpF .footer-BLK .frame-40-KoD .mask-group-A39 {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.home-NpF .footer-BLK .scrap-symphony-sanctuary-all-rights-reserved-Wco {
+  width: 27.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 114.7rem;
+  top: 21.4rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.home-NpF .footer-BLK .terms-condition-privacy-policy-N9D {
+  width: 18.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 21.4rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}

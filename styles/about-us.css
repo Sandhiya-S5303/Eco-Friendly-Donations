@@ -1,0 +1,785 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 153.6rem;
+}
+
+.about-us-m1q {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.about-us-m1q .auto-group-eub1-ts9 {
+  margin-bottom: 4.1rem;
+  box-sizing: border-box;
+  padding: 3.1rem 10.6rem 2.3rem 3.5rem;
+  width: 100%;
+  height: 15.9rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8899999857);
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-eub1-ts9 .auto-group-xynf-Qab {
+  margin-right: 57.1rem;
+  width: 37.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-eub1-ts9 .auto-group-xynf-Qab .auto-group-uxf5-jsm {
+  margin: 0rem 16.05rem 1.1rem 0rem;
+  width: calc(100% - 16.05rem);
+  display: flex;
+  align-items: center;
+}
+
+.about-us-m1q .auto-group-eub1-ts9 .auto-group-xynf-Qab .auto-group-uxf5-jsm .scrap3-removebg-preview-75-UKZ {
+  margin-right: 0.2033rem;
+  width: 5.1467rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-eub1-ts9 .auto-group-xynf-Qab .auto-group-uxf5-jsm .scrap-symphony-sanctuary-kns {
+  margin-top: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.028rem;
+  color: #f7fbff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-eub1-ts9 .auto-group-xynf-Qab .eco-friendly-donations-f99 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.about-us-m1q .auto-group-eub1-ts9 .home-donations-about-us-contact-us-NZM {
+  margin-bottom: 0.8rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-eub1-ts9 .home-donations-about-us-contact-us-NZM .home-donations-about-us-contact-us-NZM-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+
+a {
+  text-decoration: none;
+}
+
+.about-us-m1q .auto-group-eub1-ts9 .home-donations-about-us-contact-us-NZM .home-donations-about-us-contact-us-NZM-sub-1 {}
+
+.about-us-m1q .about-us-Rvw {
+  margin: 0rem 0rem 8.1rem 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .welcome-to-scrap-symphony-sanctuary-eco-friendly-donations-where-we-believe-in-the-transformative-power-of-community-driven-initiatives-our-web-based-application-for-waste-management-and-donation-serves-as-a-bridge-between-those-with-excess-resources-and-ngos-dedicated-to-supporting-those-in-need-9M9 {
+  margin: 0rem 0rem 5.6rem 1.6rem;
+  max-width: 126.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-m1q .welcome-to-scrap-symphony-sanctuary-eco-friendly-donations-where-we-believe-in-the-transformative-power-of-community-driven-initiatives-our-web-based-application-for-waste-management-and-donation-serves-as-a-bridge-between-those-with-excess-resources-and-ngos-dedicated-to-supporting-those-in-need-9M9 .welcome-to-scrap-symphony-sanctuary-eco-friendly-donations-where-we-believe-in-the-transformative-power-of-community-driven-initiatives-our-web-based-application-for-waste-management-and-donation-serves-as-a-bridge-between-those-with-excess-resources-and-ngos-dedicated-to-supporting-those-in-need-9M9-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .welcome-to-scrap-symphony-sanctuary-eco-friendly-donations-where-we-believe-in-the-transformative-power-of-community-driven-initiatives-our-web-based-application-for-waste-management-and-donation-serves-as-a-bridge-between-those-with-excess-resources-and-ngos-dedicated-to-supporting-those-in-need-9M9 .welcome-to-scrap-symphony-sanctuary-eco-friendly-donations-where-we-believe-in-the-transformative-power-of-community-driven-initiatives-our-web-based-application-for-waste-management-and-donation-serves-as-a-bridge-between-those-with-excess-resources-and-ngos-dedicated-to-supporting-those-in-need-9M9-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .welcome-to-scrap-symphony-sanctuary-eco-friendly-donations-where-we-believe-in-the-transformative-power-of-community-driven-initiatives-our-web-based-application-for-waste-management-and-donation-serves-as-a-bridge-between-those-with-excess-resources-and-ngos-dedicated-to-supporting-those-in-need-9M9 .welcome-to-scrap-symphony-sanctuary-eco-friendly-donations-where-we-believe-in-the-transformative-power-of-community-driven-initiatives-our-web-based-application-for-waste-management-and-donation-serves-as-a-bridge-between-those-with-excess-resources-and-ngos-dedicated-to-supporting-those-in-need-9M9-sub-2 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .group-212-1Jo {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 8.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(119, 119, 119, 0.1199999973);
+  flex-shrink: 0;
+}
+
+.about-us-m1q .at-eco-friendly-donations-our-mission-is-to-create-a-positive-impact-on-society-by-minimizing-waste-and-addressing-the-needs-of-the-less-fortunate-we-strive-to-foster-collaboration-between-individuals-businesses-and-non-profit-organizations-creating-a-seamless-platform-for-the-donation-and-redistribution-of-surplus-items-4Xy {
+  margin-left: 0.4rem;
+  max-width: 121rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-m1q .at-eco-friendly-donations-our-mission-is-to-create-a-positive-impact-on-society-by-minimizing-waste-and-addressing-the-needs-of-the-less-fortunate-we-strive-to-foster-collaboration-between-individuals-businesses-and-non-profit-organizations-creating-a-seamless-platform-for-the-donation-and-redistribution-of-surplus-items-4Xy .at-eco-friendly-donations-our-mission-is-to-create-a-positive-impact-on-society-by-minimizing-waste-and-addressing-the-needs-of-the-less-fortunate-we-strive-to-foster-collaboration-between-individuals-businesses-and-non-profit-organizations-creating-a-seamless-platform-for-the-donation-and-redistribution-of-surplus-items-4Xy-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .at-eco-friendly-donations-our-mission-is-to-create-a-positive-impact-on-society-by-minimizing-waste-and-addressing-the-needs-of-the-less-fortunate-we-strive-to-foster-collaboration-between-individuals-businesses-and-non-profit-organizations-creating-a-seamless-platform-for-the-donation-and-redistribution-of-surplus-items-4Xy .at-eco-friendly-donations-our-mission-is-to-create-a-positive-impact-on-society-by-minimizing-waste-and-addressing-the-needs-of-the-less-fortunate-we-strive-to-foster-collaboration-between-individuals-businesses-and-non-profit-organizations-creating-a-seamless-platform-for-the-donation-and-redistribution-of-surplus-items-4Xy-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .at-eco-friendly-donations-our-mission-is-to-create-a-positive-impact-on-society-by-minimizing-waste-and-addressing-the-needs-of-the-less-fortunate-we-strive-to-foster-collaboration-between-individuals-businesses-and-non-profit-organizations-creating-a-seamless-platform-for-the-donation-and-redistribution-of-surplus-items-4Xy .at-eco-friendly-donations-our-mission-is-to-create-a-positive-impact-on-society-by-minimizing-waste-and-addressing-the-needs-of-the-less-fortunate-we-strive-to-foster-collaboration-between-individuals-businesses-and-non-profit-organizations-creating-a-seamless-platform-for-the-donation-and-redistribution-of-surplus-items-4Xy-sub-2 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.02rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .auto-group-r8qd-Vod {
+  width: 100%;
+  height: 148.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-izhm-qMh {
+  width: 32.65rem;
+  height: 6rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 7.2rem;
+  display: flex;
+  align-items: center;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-izhm-qMh .vector-NMd {
+  margin: 0.041rem 0.95rem 0rem 0rem;
+  width: 7.2rem;
+  height: 5.4413rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-izhm-qMh .what-we-do--fLj {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-wj3z-PXd {
+  width: 113.6rem;
+  height: 40.8rem;
+  position: absolute;
+  left: 27.4rem;
+  top: 16.4rem;
+  display: flex;
+  align-items: center;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-wj3z-PXd .auto-group-cnzk-ipo {
+  margin-right: 2.3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-wj3z-PXd .auto-group-cnzk-ipo .resource-collection-and-coordination-GLX {
+  margin-bottom: 1.7rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-wj3z-PXd .auto-group-cnzk-ipo .our-platform-facilitates-the-collection-of-surplus-items-including-but-not-limited-to-food-clothing-books-money-and-toys-from-various-establishments-such-as-hotels-restaurants-event-venues-shopping-malls-and-general-stores-we-streamline-the-process-making-it-easy-for-donors-to-connect-with-ngos-yVq {
+  margin: 0rem 0rem 3.7rem 0.1rem;
+  max-width: 63.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-wj3z-PXd .auto-group-cnzk-ipo .waste-reduction-irj {
+  margin-bottom: 1.4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-wj3z-PXd .auto-group-cnzk-ipo .by-connecting-donors-with-surplus-items-to-ngos-actively-working-to-address-issues-like-starvation-malnutrition-and-lack-of-resources-we-contribute-to-the-reduction-of-unnecessary-waste-together-we-make-a-positive-impact-on-the-environment-and-the-well-being-of-vulnerable-populations-ekP {
+  margin-left: 0.1rem;
+  max-width: 64.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-wj3z-PXd .image-26-EyV {
+  margin-top: 0.2rem;
+  width: 47rem;
+  height: 36.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .ngo-collaboration-xeb {
+  width: 23.4rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 27.4rem;
+  top: 63.2rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .we-prioritize-collaboration-with-ngos-dedicated-to-supporting-underprivileged-communities-through-our-platform-these-organizations-can-request-and-coordinate-the-pickup-of-surplus-resources-ensuring-efficient-and-timely-distribution-to-those-who-need-them-the-most-TrF {
+  width: 112.2rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 27.5rem;
+  top: 67.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-4gph-5Mq {
+  width: 53.65rem;
+  height: 6rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 83.3rem;
+  display: flex;
+  align-items: center;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-4gph-5Mq .vector-zDu {
+  margin: 0.041rem 1.25rem 0rem 0rem;
+  width: 7.2rem;
+  height: 5.4413rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-4gph-5Mq .how-you-can-contribute-6Gw {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-ynsq-cWB {
+  width: 119.7rem;
+  height: 36.75rem;
+  position: absolute;
+  left: 21.8rem;
+  top: 93.45rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-ynsq-cWB .image-27-Yej {
+  margin: 0.45rem 2.4rem 0rem 0rem;
+  width: 42.8rem;
+  height: 36.3rem;
+  position: relative;
+  background-size: 120.918% 106.989%;
+  background-position: 0 0;
+  background-image: url('../assets/image-27.png');
+  border-radius: 50rem;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-ynsq-cWB .auto-group-xw39-2po {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-ynsq-cWB .auto-group-xw39-2po .donors-PfM {
+  margin-bottom: 1.45rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.064rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-ynsq-cWB .auto-group-xw39-2po .if-you-own-a-business-or-have-surplus-items-that-could-benefit-those-in-needeco-friendly-donations-provides-an-easy-and-efficient-way-for-you-to-make-a-difference-join-our-community-of-donors-and-be-a-part-of-the-solution-to-reduce-waste-and-support-vulnerable-communities-4mV {
+  margin: 0rem 0rem 0.3rem 0.4rem;
+  max-width: 74.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3618164062;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-ynsq-cWB .auto-group-xw39-2po .if-you-own-a-business-or-have-surplus-items-that-could-benefit-those-in-needeco-friendly-donations-provides-an-easy-and-efficient-way-for-you-to-make-a-difference-join-our-community-of-donors-and-be-a-part-of-the-solution-to-reduce-waste-and-support-vulnerable-communities-4mV .if-you-own-a-business-or-have-surplus-items-that-could-benefit-those-in-needeco-friendly-donations-provides-an-easy-and-efficient-way-for-you-to-make-a-difference-join-our-community-of-donors-and-be-a-part-of-the-solution-to-reduce-waste-and-support-vulnerable-communities-4mV-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-ynsq-cWB .auto-group-xw39-2po .if-you-own-a-business-or-have-surplus-items-that-could-benefit-those-in-needeco-friendly-donations-provides-an-easy-and-efficient-way-for-you-to-make-a-difference-join-our-community-of-donors-and-be-a-part-of-the-solution-to-reduce-waste-and-support-vulnerable-communities-4mV .if-you-own-a-business-or-have-surplus-items-that-could-benefit-those-in-needeco-friendly-donations-provides-an-easy-and-efficient-way-for-you-to-make-a-difference-join-our-community-of-donors-and-be-a-part-of-the-solution-to-reduce-waste-and-support-vulnerable-communities-4mV-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-ynsq-cWB .auto-group-xw39-2po .if-you-own-a-business-or-have-surplus-items-that-could-benefit-those-in-needeco-friendly-donations-provides-an-easy-and-efficient-way-for-you-to-make-a-difference-join-our-community-of-donors-and-be-a-part-of-the-solution-to-reduce-waste-and-support-vulnerable-communities-4mV .if-you-own-a-business-or-have-surplus-items-that-could-benefit-those-in-needeco-friendly-donations-provides-an-easy-and-efficient-way-for-you-to-make-a-difference-join-our-community-of-donors-and-be-a-part-of-the-solution-to-reduce-waste-and-support-vulnerable-communities-4mV-sub-2 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-ynsq-cWB .auto-group-xw39-2po .ngos-iWb {
+  margin-bottom: 3.05rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.064rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top: 30px;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .auto-group-ynsq-cWB .auto-group-xw39-2po .ngos-focused-on-community-support-and-welfare-can-leverage-our-platform-to-streamline-their-efforts-in-obtaining-surplus-resources-by-partnering-with-us-ngos-can-ensure-a-consistent-supply-of-resources-to-aid-their-initiatives-TDH {
+  margin-left: 0.2rem;
+  max-width: 73.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .join-us-at-scrap-symphony-sanctuary-eco-friendly-donations-as-we-strive-to-create-a-more-sustainable-and-compassionate-world-together-we-can-turn-excess-into-impact-making-a-meaningful-difference-in-the-lives-of-those-who-need-it-most-gbq {
+  width: 117.5rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 22.1rem;
+  top: 136.65rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3618164062;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .join-us-at-scrap-symphony-sanctuary-eco-friendly-donations-as-we-strive-to-create-a-more-sustainable-and-compassionate-world-together-we-can-turn-excess-into-impact-making-a-meaningful-difference-in-the-lives-of-those-who-need-it-most-gbq .join-us-at-scrap-symphony-sanctuary-eco-friendly-donations-as-we-strive-to-create-a-more-sustainable-and-compassionate-world-together-we-can-turn-excess-into-impact-making-a-meaningful-difference-in-the-lives-of-those-who-need-it-most-gbq-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .join-us-at-scrap-symphony-sanctuary-eco-friendly-donations-as-we-strive-to-create-a-more-sustainable-and-compassionate-world-together-we-can-turn-excess-into-impact-making-a-meaningful-difference-in-the-lives-of-those-who-need-it-most-gbq .join-us-at-scrap-symphony-sanctuary-eco-friendly-donations-as-we-strive-to-create-a-more-sustainable-and-compassionate-world-together-we-can-turn-excess-into-impact-making-a-meaningful-difference-in-the-lives-of-those-who-need-it-most-gbq-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .auto-group-r8qd-Vod .join-us-at-scrap-symphony-sanctuary-eco-friendly-donations-as-we-strive-to-create-a-more-sustainable-and-compassionate-world-together-we-can-turn-excess-into-impact-making-a-meaningful-difference-in-the-lives-of-those-who-need-it-most-gbq .join-us-at-scrap-symphony-sanctuary-eco-friendly-donations-as-we-strive-to-create-a-more-sustainable-and-compassionate-world-together-we-can-turn-excess-into-impact-making-a-meaningful-difference-in-the-lives-of-those-who-need-it-most-gbq-sub-2 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .footer-iKZ {
+  width: 100%;
+  height: 26.6092rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .footer-iKZ .rectangle-3-3cj {
+  width: 153.6rem;
+  height: 24.9998rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #222222;
+}
+
+.about-us-m1q .footer-iKZ .scrap-symphony-sanctuary-your-premier-destination-for-trading-scrap-materials-and-a-platform-to-donate-and-manage-waste-responsibly-embrace-a-circular-economy-contribute-to-charitable-causes-by-donating-reusable-items-and-explore-green-solutions-with-our-community-of-startups-and-entrepreneurs-for-a-sustainable-future-PwV {
+  width: 43.7rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 4.8992rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+
+.about-us-m1q .footer-iKZ .frame-35-NYX {
+  width: 5.2rem;
+  height: 16.5rem;
+  position: absolute;
+  left: 117.8rem;
+  top: 1.9931rem;
+}
+
+.about-us-m1q .footer-iKZ .frame-35-NYX .pages-gZD {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 2.25;
+  letter-spacing: 0.012rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.about-us-m1q .footer-iKZ .frame-35-NYX .frame-39-cBy {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.about-us-m1q .footer-iKZ .frame-35-NYX .frame-39-cBy .home-Uzs {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .footer-iKZ .frame-35-NYX .frame-39-cBy .donations-QNj {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .footer-iKZ .frame-35-NYX .frame-39-cBy .about-us-8Zd {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .footer-iKZ .frame-35-NYX .frame-39-cBy .contact-us-Gfq {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .footer-iKZ .social-media-DLB {
+  width: 17.3616rem;
+  height: 3rem;
+  position: absolute;
+  left: 13.018rem;
+  top: 15.1113rem;
+  display: flex;
+  align-items: center;
+}
+
+.about-us-m1q .footer-iKZ .social-media-DLB .vector-MBV {
+  margin: 0rem 4.034rem 0rem 0rem;
+  width: 2.9268rem;
+  height: 2.9268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .footer-iKZ .social-media-DLB .vector-fCB {
+  margin-right: 4.0345rem;
+  width: 3.2195rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .footer-iKZ .social-media-DLB .vector-yif {
+  margin-bottom: 0rem;
+  width: 3.1463rem;
+  height: 2.6341rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .footer-iKZ .rectangle-12-jC3 {
+  width: 153.6rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0;
+  top: 20.7rem;
+  background-color: #555555;
+}
+
+.about-us-m1q .footer-iKZ .frame-40-frP {
+  box-sizing: border-box;
+  padding-right: 19.3667rem;
+  width: 29.8667rem;
+  height: 5.3092rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 21.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.about-us-m1q .footer-iKZ .frame-40-frP .mask-group-mPd {
+  margin-right: 4.5rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .footer-iKZ .frame-40-frP .mask-group-Hsm {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.about-us-m1q .footer-iKZ .scrap-symphony-sanctuary-all-rights-reserved-F3u {
+  width: 27.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 114.7rem;
+  top: 21.4rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.about-us-m1q .footer-iKZ .terms-condition-privacy-policy-LLF {
+  width: 18.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 65.9rem;
+  top: 21.4rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}

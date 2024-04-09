@@ -1,0 +1,642 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 153.6rem;
+}
+
+.contact-us-UYo {
+  width: 100%;
+  height: 127.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+.contact-us-UYo .auto-group-p5jx-DWP {
+  box-sizing: border-box;
+  padding: 3.1rem 10.6rem 2.3rem 3.5rem;
+  width: 153.6rem;
+  height: 15.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8899999857);
+}
+
+.contact-us-UYo .auto-group-p5jx-DWP .auto-group-ezgp-KZR {
+  margin-right: 57.1rem;
+  width: 37.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .auto-group-p5jx-DWP .auto-group-ezgp-KZR .auto-group-ukfz-ydy {
+  margin: 0rem 16.05rem 1.1rem 0rem;
+  width: calc(100% - 16.05rem);
+  display: flex;
+  align-items: center;
+}
+
+.contact-us-UYo .auto-group-p5jx-DWP .auto-group-ezgp-KZR .auto-group-ukfz-ydy .scrap3-removebg-preview-75-h4B {
+  margin-right: 0.2033rem;
+  width: 5.1467rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .auto-group-p5jx-DWP .auto-group-ezgp-KZR .auto-group-ukfz-ydy .scrap-symphony-sanctuary-cgw {
+  margin-top: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.028rem;
+  color: #f7fbff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .auto-group-p5jx-DWP .auto-group-ezgp-KZR .eco-friendly-donations-KrF {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.contact-us-UYo .auto-group-p5jx-DWP .home-donations-about-us-contact-us-31Z {
+  margin-bottom: 0.8rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .auto-group-p5jx-DWP .home-donations-about-us-contact-us-31Z .home-donations-about-us-contact-us-31Z-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+
+a {
+  text-decoration: none;
+}
+
+.contact-us-UYo .auto-group-p5jx-DWP .home-donations-about-us-contact-us-31Z .home-donations-about-us-contact-us-31Z-sub-1 {}
+
+.contact-us-UYo .contact-us-wFM {
+  width: 18.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 68.25rem;
+  top: 23.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.contact-us-UYo .auto-group-2rwo-1m1 {
+  box-sizing: border-box;
+  padding: 2.45rem 4.95rem 1.85rem 4.95rem;
+  width: 153.6rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 0;
+  top: 15.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.032rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-940.png');
+}
+
+.contact-us-UYo .fill-this-form-our-team-will-connect-with-you-and-solve-your-queries-e3H {
+  width: 66.5rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 13.55rem;
+  top: 31.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 {
+  width: 130.4rem;
+  height: 65.2rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 36.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD {
+  box-sizing: border-box;
+  padding: 0.7rem 11rem 0.7rem 11.05rem;
+  width: 68.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB {
+  width: 100%;
+  height: 62.3rem;
+  position: relative;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .first-name-saF {
+  width: 46rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .first-name-saF .first-name-Du1 {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .first-name-saF .first-name-Du1 .first-name-Du1-sub-0 {}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .first-name-saF .first-name-Du1 .first-name-Du1-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .first-name-saF .rectangle-ZLb {
+  width: 100%;
+  height: 5.5rem;
+  background-color: #f1f1f1;
+  border-radius: 0.6rem;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .last-name-Joy {
+  width: 46rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 0;
+  top: 9rem;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .last-name-Joy .last-name-f8j {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .last-name-Joy .rectangle-CuM {
+  width: 100%;
+  height: 5.5rem;
+  background-color: #f1f1f1;
+  border-radius: 0.6rem;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .email-juH {
+  width: 46rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 0;
+  top: 18rem;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .email-juH .e-mail-VdZ {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .email-juH .e-mail-VdZ .e-mail-VdZ-sub-0 {}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .email-juH .e-mail-VdZ .e-mail-VdZ-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .email-juH .rectangle-tvb {
+  width: 100%;
+  height: 5.5rem;
+  background-color: rgba(217, 217, 217, 0.3700000048);
+  border-radius: 0.6rem;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .phone-number-Sx7 {
+  width: 46rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 0;
+  top: 27.05rem;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .phone-number-Sx7 .phone-number-ba7 {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .phone-number-Sx7 .phone-number-ba7 .phone-number-ba7-sub-0 {}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .phone-number-Sx7 .phone-number-ba7 .phone-number-ba7-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .phone-number-Sx7 .rectangle-xZ5 {
+  width: 100%;
+  height: 5.5rem;
+  background-color: #f1f1f1;
+  border-radius: 0.6rem;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .message-hmZ {
+  width: 46rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 0;
+  top: 37.1535rem;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .message-hmZ .message-eRu {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .message-hmZ .rectangle-zkf {
+  width: 100%;
+  height: 15rem;
+  background-color: #f1f1f1;
+  border-radius: 0.6rem;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .button-Z35 {
+  width: 18rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 28.05rem;
+  top: 57.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #000000;
+  border-radius: 0.6rem;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .contact-form-2-3bD .group-61-xiB .button-DdR {
+  width: 12.4rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 0.05rem;
+  top: 57.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #000000;
+  border-radius: 0.6rem;
+}
+
+.contact-us-UYo .auto-group-apcj-iJ3 .image-29-CET {
+  margin-top: 2.6rem;
+  width: 62.3rem;
+  height: 52.4rem;
+  position: relative;
+  background-size: 100% 108.527%;
+  background-position: 0.1789rem 0.4456rem;
+  background-image: url('../assets/image-29.png');
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm {
+  box-sizing: border-box;
+  padding-top: 1.9931rem;
+  width: 153.6rem;
+  height: 26.6092rem;
+  position: absolute;
+  left: 0;
+  top: 102.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #222222;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 {
+  margin: 0rem 30.6rem 2.207rem 12.2rem;
+  width: calc(100% - 42.8rem);
+  height: 16.5rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 .auto-group-abrr-6j9 {
+  margin: 0rem 61.9rem 0.382rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 .auto-group-abrr-6j9 .scrap-symphony-sanctuary-your-premier-destination-for-trading-scrap-materials-and-a-platform-to-donate-and-manage-waste-responsibly-embrace-a-circular-economy-contribute-to-charitable-causes-by-donating-reusable-items-and-explore-green-solutions-with-our-community-of-startups-and-entrepreneurs-for-a-sustainable-future-SY7 {
+  margin-bottom: 1.4121rem;
+  max-width: 43.7rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 .auto-group-abrr-6j9 .social-media-327 {
+  margin-left: 0.818rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 .auto-group-abrr-6j9 .social-media-327 .vector-a23 {
+  margin: 0rem 4.034rem 0rem 0rem;
+  width: 2.9268rem;
+  height: 2.9268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 .auto-group-abrr-6j9 .social-media-327 .vector-JTq {
+  margin-right: 4.0345rem;
+  width: 3.2195rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 .auto-group-abrr-6j9 .social-media-327 .vector-rVM {
+  margin-top: 0rem;
+  width: 3.1463rem;
+  height: 2.6341rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 .frame-35-ofV {
+  width: 5.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 .frame-35-ofV .pages-YNB {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 2.25;
+  letter-spacing: 0.012rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 .frame-35-ofV .frame-39-FXV {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 .frame-35-ofV .frame-39-FXV .home-QfH {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 .frame-35-ofV .frame-39-FXV .donations-jxT {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 .frame-35-ofV .frame-39-FXV .about-us-Uv3 {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-4ewb-P43 .frame-35-ofV .frame-39-FXV .contact-us-pj1 {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-h9mz-AH5 {
+  box-sizing: border-box;
+  padding: 0.6rem 11.5rem 0rem 14.1rem;
+  width: 100%;
+  height: 5.9092rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #555555;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-h9mz-AH5 .frame-40-4dM {
+  margin-right: 21.9333rem;
+  box-sizing: border-box;
+  padding-right: 19.3667rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-h9mz-AH5 .frame-40-4dM .mask-group-1Yb {
+  margin-right: 4.5rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-h9mz-AH5 .frame-40-4dM .mask-group-9uh {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-h9mz-AH5 .terms-condition-privacy-policy-WVM {
+  margin: 0.1rem 30.3rem 0rem 0rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.contact-us-UYo .footer-Uhm .auto-group-h9mz-AH5 .scrap-symphony-sanctuary-all-rights-reserved-ytj {
+  margin-top: 0.1rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
